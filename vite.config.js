@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [tailwindcss(),react()],
-  base:"/Employee-Management-System-React-Project"
+  base:"/Employee-Management-System"
 })
