@@ -10,3 +10,11 @@ Currently, two official plugins are available:
 
 Deployed Link
 https://shaanworkspace.github.io/Employee-Managment-System/
+
+Login As Employee
+email: employee1@gmail.com
+pass: 123
+
+Login As Admin
+email: admin1@gmail.com
+pass:123
