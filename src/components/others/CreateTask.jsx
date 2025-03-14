@@ -65,7 +65,7 @@ const CreateTask = () => {
                         <input  value={asignTo}  onChange={(e)=>{setAsignTo(e.target.value)}}  className="h-9 w-xl rounded-xl bg-[#313131] border-none placeholder:px-4 placeholder:text-sm" type="text" name="" id="" placeholder='Enter the name to Assign' />
                     </div>
                     <div className='mt-3 '>
-                        <h2 className='px-2 mb-1 text-lg text-stone-400'>Catogory</h2>
+                        <h2 className='px-2 mb-1 text-lg text-stone-400'>Category</h2>
                         <input  value={category}  onChange={(e)=>{setCategory(e.target.value)}}  className="h-9 w-xl rounded-xl bg-[#313131] border-none placeholder:px-4 placeholder:text-sm" type="text" name="" id="" placeholder='Design, Development, etc...' />
                     </div>
                 </div>
