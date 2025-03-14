@@ -22,4 +22,5 @@ pass:123
 
 # After cloning, run:
 npm install
+
 npm run dev
