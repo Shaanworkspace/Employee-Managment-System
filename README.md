@@ -18,3 +18,8 @@ pass: 123
 Login As Admin
 email: admin1@gmail.com
 pass:123
+
+
+# After cloning, run:
+npm install
+npm run dev
